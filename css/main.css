@@ -163,3 +163,21 @@ button {
 .work {
   width: 950px;
 }
+
+img {
+  width: 320px;
+  display: inline-block;
+  margin: 16px;
+}
+
+li {
+  width: 33%;
+  display: inline-block;
+}
+ul {
+  display: inline-block;
+  padding: 0px;
+  list-style: none;
+  /*outline: 1px solid yellow;*/
+  width: 100%;
+}
