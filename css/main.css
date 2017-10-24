@@ -71,3 +71,95 @@ a:hover {
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
+* {
+  font-family: 'Raleway', sans-serif;
+}
+section {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.parrafo1 {
+  /*outline: 1px solid green;*/
+  position: relative;
+}
+.logo-superior {
+  position:absolute;
+  display: inline-block;
+  margin-left: 1075px;
+  bottom: 5px;
+  width: 70px;
+}
+nav a {
+  display: inline-block;
+  margin: 30px;
+  text-transform: uppercase;
+  /*outline: 1px solid yellow;*/
+}
+
+.logo-medio {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  max-width: 100%;
+  width: 1500px;
+}
+
+.text-1 {
+  position: absolute;
+  left: 500px;
+  bottom: 430px;
+  color: white;
+  /*outline: 1px solid white;*/
+}
+
+.text-2 {
+  position: absolute;
+  left: 455px;
+  bottom: 330px;
+  color: white;
+  /*outline: 1px solid white;*/
+}
+
+.text-3 {
+  position: absolute;
+  left: 420px;
+  bottom: 250px;
+  color: white;
+  /*outline: 1px solid white;*/
+}
+
+button {
+  position: absolute;
+  left: 630px;
+  bottom: 150px;
+  background: #80E185;
+  border: 0px;
+  color: white;
+  font-size: 18px;
+  padding: 16px;
+}
+
+.title2 {
+  margin: 0px;
+}
+
+.parrafo2 {
+  background: #DC624F;
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.services {
+  width: 190px;
+}
+
+#services-2 {
+  display: inline-block;
+  color: white;
+}
+
+.work {
+  width: 950px;
+}
