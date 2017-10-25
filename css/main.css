@@ -115,7 +115,7 @@ nav a {
 
 .text-2 {
   position: absolute;
-  left: 455px;
+  left: 465px;
   bottom: 330px;
   color: white;
   /*outline: 1px solid white;*/
@@ -165,18 +165,20 @@ button {
 }
 
 img {
-  width: 320px;
+  width: 150px;
   display: inline-block;
-  margin: 16px;
+  margin: 10px;
+
 }
 
 li {
   width: 33%;
   display: inline-block;
+  /*outline: 1px solid red;*/
 }
 ul {
   display: inline-block;
-  padding: 0px;
+  padding: 130px;
   list-style: none;
   /*outline: 1px solid yellow;*/
   width: 100%;
